@@ -20,8 +20,3 @@ HTML5 – Structure
 CSS3 – Styling
 
 JavaScript (ES6) – Functionality
-
-
-🚀 Live Demo
-
-🔗 Click Here to View Project (Add your live link here)
